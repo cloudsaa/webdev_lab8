@@ -15,8 +15,8 @@
     margin: 0;
     padding: 0;
     position: relative;
+    left: 50%;	
     float: left;
-    left: 50%;
 }
 
 #main-navbar ul li {
